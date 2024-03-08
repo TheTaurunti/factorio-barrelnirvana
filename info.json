@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Taurunti",
   "contact": "thetaurunti@gmail.com",
-  "homepage": "https://github.com/TheTaurunti/factorio-mods",
+  "homepage": "https://github.com/TheTaurunti/factorio-barrelnirvana",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
   "description": "Exposes startup settings relating to barrel logistics, for player adjustment."
